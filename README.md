@@ -1,1 +1,39 @@
-# Recipe
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mom's Homemade Mac and Cheese</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Mom's Homemade Mac and Cheese</h1>
+
+    <p>
+        The recipe I chose was my moms homemade mac and cheese because it is one of the things I look forward to every time I am home. It is the most delicious mac and cheese I have ever had, and I have had a lot. Mac and cheese is my favorite dish/food of all time, so I figured what better recipe to write about than this.
+    </p>
+
+    <h2>Ingredients</h2>
+    <ul>
+        <li>2 cups elbow macaroni</li>
+        <li>2 tablespoons butter</li>
+        <li>2 tablespoons flour</li>
+        <li>2 cups milk</li>
+        <li>2 cups shredded cheddar cheese</li>
+        <li>1/2 teaspoon salt</li>
+        <li>1/4 teaspoon black pepper</li>
+    </ul>
+
+    <h2>Steps</h2>
+    <ol>
+        <li>Boil salted water and cook macaroni until tender. Drain and set aside.</li>
+        <li>In a saucepan, melt butter over medium heat.</li>
+        <li>Stir in flour and cook for about 1 minute to make a roux.</li>
+        <li>Slowly whisk in milk and cook until the mixture thickens.</li>
+        <li>Add shredded cheese, salt, and pepper. Stir until melted and smooth.</li>
+        <li>Mix the cooked macaroni into the cheese sauce.</li>
+        <li>Serve warm and enjoy.</li>
+    </ol>
+
+</body>
+</html>

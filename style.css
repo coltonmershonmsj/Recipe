@@ -1,11 +1,6 @@
 body { background: hotpink !important; }
 
-    background-color: #fff4dc;
-    font-family: 'Trebuchet MS', Arial, sans-serif;
-    margin: 0;
-    padding: 40px;
-    color: #333;
-}
+   
 
 /* MAIN CONTAINER (REQUIRED) */
 .container {

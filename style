@@ -1,26 +1,46 @@
 body {
     background-color: #fff4dc;
     font-family: 'Trebuchet MS', Arial, sans-serif;
-    margin: 40px;
+    margin: 0;
+    padding: 40px;
     color: #333;
 }
 
+/* MAIN CONTAINER (REQUIRED) */
+.container {
+    background-color: #ffffff;
+    padding: 30px;
+    max-width: 600px;
+    margin: 0 auto;
+    border-radius: 8px;
+}
+
+/* HEADINGS */
 h1 {
     color: #d2691e;
     text-align: center;
+    margin-bottom: 20px;
 }
 
+h2 {
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+/* TEXT */
 p {
     font-size: 18px;
     line-height: 1.6;
-    max-width: 600px;
+    margin-bottom: 20px;
 }
 
+/* LISTS */
 ul {
     list-style-type: square;
     background-color: #fff8dc;
     padding: 15px;
     border-radius: 8px;
+    margin-bottom: 20px;
 }
 
 ol {
@@ -28,6 +48,7 @@ ol {
     background-color: #fffaf0;
     padding: 15px;
     border-radius: 8px;
+    margin-bottom: 20px;
 }
 
 li {
